@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="assets/spotify_logo_rgb_green.svg" width="400" alt="Spotify logo" />
-</p>
+<img src="assets/spotify_logo_rgb_green.svg" width="300" align="right" hspace="0" />
 
-# Spotify Currently Playing Track
+✨ &nbsp;Spotify Currently Playing Track
+======
 
 Dynamically generate Spotify currently playing tracks for your github readme or everywhere.
 
-## Overview
 
 [![](https://prakash-spotify.vercel.app/api)](https://prakash-spotify.vercel.app/api)
 
